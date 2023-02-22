@@ -1,0 +1,194 @@
+[16-Feb-2023 14:09:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[16-Feb-2023 14:09:19 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[16-Feb-2023 14:17:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[16-Feb-2023 14:17:56 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 05:19:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 05:19:29 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 05:22:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 05:22:12 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 05:24:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 05:24:25 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 05:25:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 05:25:16 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 05:26:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 05:26:58 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 05:53:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 05:53:36 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 05:55:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 05:55:51 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 05:55:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 05:55:51 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 05:55:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 05:55:51 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 05:55:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 05:55:51 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 05:58:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 05:58:33 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 06:09:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:09:41 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 06:11:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:11:21 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:12:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:12:15 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:13:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:13:44 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:14:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:14:12 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 06:14:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:14:19 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 06:19:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:19:52 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 06:20:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:20:33 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:22:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:22:04 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:34:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 06:34:40 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 06:35:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:35:24 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:36:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:36:12 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:40:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:40:20 UTC] PHP Warning:  Undefined array key "username" in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 8
+[17-Feb-2023 06:40:20 UTC] PHP Warning:  Undefined array key "useremail" in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 9
+[17-Feb-2023 06:40:20 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:40:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:40:30 UTC] PHP Warning:  Undefined array key "username" in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 8
+[17-Feb-2023 06:40:30 UTC] PHP Warning:  Undefined array key "useremail" in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 9
+[17-Feb-2023 06:40:30 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:41:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 06:41:17 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 06:44:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 06:44:47 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 06:44:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 06:44:47 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 06:45:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:45:22 UTC] PHP Warning:  Undefined variable $name in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 19
+[17-Feb-2023 06:45:22 UTC] PHP Warning:  Undefined variable $email in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 27
+[17-Feb-2023 06:45:22 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:45:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:45:32 UTC] PHP Warning:  Undefined variable $name in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 19
+[17-Feb-2023 06:45:32 UTC] PHP Warning:  Undefined variable $email in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 27
+[17-Feb-2023 06:45:32 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:45:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:45:36 UTC] PHP Warning:  Undefined variable $name in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 19
+[17-Feb-2023 06:45:36 UTC] PHP Warning:  Undefined variable $email in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 27
+[17-Feb-2023 06:45:36 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:50:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:50:52 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:50:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:50:54 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:50:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:50:58 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:51:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 06:51:21 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 06:52:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:52:12 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 55
+[17-Feb-2023 06:53:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:53:59 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 06:54:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 06:54:37 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 06:55:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 06:55:36 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 06:56:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 06:56:08 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 06:56:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 06:56:58 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 07:03:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 07:03:55 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 07:07:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 07:07:08 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 07:12:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 07:12:26 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 09:09:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 09:09:43 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 09:51:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 09:51:36 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 10:01:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 10:01:20 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 10:31:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 10:31:12 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 10:37:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 10:37:09 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 10:39:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 10:39:49 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 10:42:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 10:42:49 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 10:43:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 10:43:18 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 10:45:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 10:45:23 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 10:45:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 10:45:43 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 10:49:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 10:49:45 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 11:46:34 UTC] PHP Parse error:  syntax error, unexpected variable "$subject" in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 7
+[17-Feb-2023 11:48:12 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "\r\n" in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 10
+[17-Feb-2023 11:48:25 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "\r\n" in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 10
+[17-Feb-2023 11:49:55 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "\r\n" in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 10
+[17-Feb-2023 11:59:19 UTC] PHP Parse error:  syntax error, unexpected double-quoted string "\r\n" in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 10
+[17-Feb-2023 12:18:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 12:18:57 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 12:19:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 12:19:02 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 12:19:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 12:19:12 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 12:19:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 12:19:41 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 12:19:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 12:19:47 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 12:20:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 12:20:43 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 12:20:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 12:20:46 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 12:22:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 12:22:36 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 12:22:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[17-Feb-2023 12:22:41 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[17-Feb-2023 12:23:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 12:23:00 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 12:23:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 12:23:00 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 12:23:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 12:23:09 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 12:25:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/form.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 5
+[17-Feb-2023 12:25:26 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[17-Feb-2023 12:26:09 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 55
+[18-Feb-2023 04:48:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[18-Feb-2023 04:48:42 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[18-Feb-2023 04:49:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[18-Feb-2023 04:49:00 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[18-Feb-2023 04:50:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php:1) in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 5
+[18-Feb-2023 04:50:08 UTC] PHP Warning:  Undefined variable $error_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 53
+[18-Feb-2023 06:51:58 UTC] PHP Warning:  Undefined variable $emailList in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 40
+[18-Feb-2023 06:51:58 UTC] PHP Warning:  Undefined variable $emailList in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 41
+[18-Feb-2023 07:04:32 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 64
+[18-Feb-2023 07:04:34 UTC] PHP Warning:  Undefined variable $success_output in /home4/vrnlnq8l/rocket.vrnl.net/betfairform.php on line 64
+[18-Feb-2023 07:55:18 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 47
+[20-Feb-2023 09:08:41 UTC] PHP Parse error:  syntax error, unexpected variable "$to" in /home4/vrnlnq8l/rocket.vrnl.net/form.php on line 16
+[20-Feb-2023 12:51:28 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_SmtpTransport" not found in /home4/vrnlnq8l/rocket.vrnl.net/mail.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 18
+[20-Feb-2023 12:52:53 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_SmtpTransport" not found in /home4/vrnlnq8l/rocket.vrnl.net/mail.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 18
+[20-Feb-2023 12:53:03 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_SmtpTransport" not found in /home4/vrnlnq8l/rocket.vrnl.net/mail.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 18
+[20-Feb-2023 12:57:48 UTC] PHP Fatal error:  Uncaught Error: Class "Swift_SmtpTransport" not found in /home4/vrnlnq8l/rocket.vrnl.net/mail.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 18
+[20-Feb-2023 13:05:30 UTC] PHP Warning:  require_once(/path/to/vendor/autoload.php): Failed to open stream: No such file or directory in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 2
+[20-Feb-2023 13:05:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/path/to/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/vrnlnq8l/rocket.vrnl.net/mail.php:2
+Stack trace:
+#0 {main}
+  thrown in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 2
+[20-Feb-2023 13:22:42 UTC] PHP Warning:  require_once(path/to/PHPMailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 2
+[20-Feb-2023 13:22:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home4/vrnlnq8l/rocket.vrnl.net/mail.php:2
+Stack trace:
+#0 {main}
+  thrown in /home4/vrnlnq8l/rocket.vrnl.net/mail.php on line 2

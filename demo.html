@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+    <link rel="icon" type="image/x-icon"
+        href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxaBczyPyp4MHSmGOhC736BtZDYcTEmN_yQ&usqp=CAU">
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <header>
+
+        <nav>
+            <div class="navbar">
+                <i class='bx bx-menu'></i>
+                <div class="logo"><a href="index.html"><img src="Images/logo.svg" class="logoimg"></a></div>
+                <div class="nav-links">
+                    <div class="sidebar-logo">
+                        <span class="logo-name"><img src="Images/logo.svg" class="logoimg"></span>
+                        <i class='bx bx-x'></i>
+                    </div>
+                    <ul class="links">
+                        <li><a href="template.html">TEMPLATES</a></li>
+                        <li>
+                            <a href="#">SUBMENU</a>
+                            <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
+                            <ul class="htmlCss-sub-menu sub-menu">
+                                <li><a href="index.html">OVERVIEW</a></li>
+                                <li><a href="direct_integration.html">DIRECT INTEGRATION</a></li>
+                                <li><a href="platformsolution.html">PLATFORM SOLUION</a></li>
+                                <li><a href="compiance.html">COMPLIANCE</a></li>
+                                <li><a href="service.html">SERVICE</a></li>
+                                <!-- <li class="more">
+                                    <span><a href="#">More</a>
+                                        <i class='bx bxs-chevron-right arrow more-arrow'></i>
+                                    </span>
+                                    <ul class="more-sub-menu sub-menu">
+                                        <li><a href="#">Neumorphism</a></li>
+                                        <li><a href="#">Pre-loader</a></li>
+                                        <li><a href="#">Glassmorphism</a></li>
+                                    </ul>
+                                </li> -->
+                            </ul>
+                        </li>
+                        <!-- <li>
+                            <a href="#">OTHERS</a>
+                            <i class='bx bxs-chevron-down js-arrow arrow '></i>
+                            <ul class="js-sub-menu sub-menu">
+                                <li><a href="#">Dynamic Clock</a></li>
+                                <li><a href="#">Form Validation</a></li>
+                                <li><a href="#">Card Slider</a></li>
+                                <li><a href="#">Complete Website</a></li>
+                            </ul>
+                        </li>  -->
+                        <li><a href="integrations.html">INTEGRATIONS</a></li>
+                        <li><a href="partners.html">PARTNERS</a></li>
+                        <li><a href="pricing.html">PRICING</a></li>
+                        <li><a href="#" class="demobtn" data-toggle="modal" data-target="#exampleModal">REQUEST A
+                            DEMO</a></li> 
+                    </ul>
+                </div>
+                <div class="search-box">
+                    <i class='bx bx-search'></i>
+                    <div class="input-box">
+                        <input type="text" placeholder="Search...">
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!-- <nav>
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn">
+                <div class="toggle"><i class="fa fa-bars" onclick="changeIcon(this)"></i></div>
+            </label>
+            <a href="index.html"><img src="Images/logo.svg" class="logoimg"></a>
+            <ul>
+                <li><a class="action" href="template.html">TEMPLATES</a></li>
+                <li><a class="action" href="integrations.html">INTEGRATIONS </a></li>
+                <li><a class="action" href="partners.html">PARTNERS</a></li>
+                <li><a class="action" href="pricing.html">PRICING</a></li>
+                <li><a href="#" class="demobtn" data-toggle="modal" data-target="#exampleModal">REQUEST A
+                        DEMO</a></li>
+            </ul>
+        </nav> -->
+        
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+
+                    <div class="container">
+                        <form action="" method="post">
+
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span class="close"><i class="bi bi-x-circle-fill"></i><span>
+                            </button>
+                            <h2>SEE EASYROCKET IN ACTION</h2>
+                            <div class="content">
+                                <div class="input-box">
+                                    <label for="fname">First name</label>
+                                    <input type="text" name="fname" required>
+                                </div>
+                                <div class="input-box">
+                                    <label for="lname">Last name</label>
+                                    <input type="text" name="lname" required>
+                                </div>
+                                <div class="input-box">
+                                    <label for="email">Email</label>
+                                    <input type="email" name="email" required>
+                                </div>
+                                <div class="input-box">
+                                    <label for="contact">Contact</label>
+                                    <input type="tel" name="contact" required>
+                                </div>
+                                <div class="input-box">
+                                    <label for="cname">Company name</label>
+                                    <input type="text" name="cname" required>
+                                </div>
+                            </div>
+                            <div class="form-group form-check"
+                                style="text-align: center; font-weight: bold; color: grey;">
+                                <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
+                                <label class="form-check-label" for="exampleCheck1">I agree to the Privacy
+                                    Policy</label>
+                            </div>
+                            <div class="button-container">
+                                <button type="submit">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        </div>
+    </header>
+
+
+
+
+    <section id="label" class="label">
+        <h1>Interested or have questions ?</h1>
+        <div style="color: white;font-size: 18px;margin-left:10% ;margin-bottom:5% ; margin-top:20px;width:80%;"> If you
+            want to test your casino platform, optimize your content or maximize your revenue and thereby improve your
+            operations in the iGaming industry,contact us now and we'll set up a demonstration.</div>
+        <a href="" class="hero-btnnn">Let's Talk</a>
+        <a href="" class="hero-butn">Get Started</a>
+    </section>
+
+
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>CONTACT</h4>
+                    <ul>
+                        <li>
+                            <a href="mailto:marketing@easyrocket.net">marketing@easyrocket.net</a>
+                        </li>
+
+                        <li><a href="contact1.html">Contact Us</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-col">
+                    <h4>COMPANY</h4>
+                    <ul>
+                        <li><a href="aboutus.html">About Us</a></li>
+                        <li><a href="template.html">Templates</a></li>
+                        <li><a href="pricing.html">Pricing</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-col">
+                    <h4>WE WORK WITH</h4>
+                    <ul>
+                        <li><a href="/faq">FAQ</a></li>
+                        <li><a href="partners.html">Partners</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-col">
+                    <h4>LEGAL</h4>
+                    <ul>
+                        <li><a href="privacy.html">Privacy Policy</a></li>
+                    </ul>
+                </div>
+
+                <div class="partners">
+                    <img src="images copy/evolution_gaming.png" />
+                    <img src="images copy/playngo.png" />
+                    <img src="images copy/netent.png" />
+                    <img src="images copy/microgaming.png" />
+                    <img src="images copy/amatic.png" />
+                    <img src="images copy/betgamestv.png" />
+                    <img src="images copy/betsoft.png" />
+                    <img src="images copy/blueprint.png" />
+                    <img src="images copy/booongo.png" />
+                </div>
+
+
+            </div>
+
+            <div class="row 1">
+                <div class="footer_logo">
+                    <img src="images copy/logo_gray.svg" alt="logo" />
+                </div>
+
+                <div class="footer-bottom">
+                    <p>2023 &copy; Easyrocket | All rights reserved.</p>
+                </div>
+
+                <div class="footer-col">
+                    <div class="social-links">
+                        <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+crossorigin="anonymous"></script>
+<script src="js/form.js"></script>
+</body>
+</html>

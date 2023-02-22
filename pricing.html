@@ -1,0 +1,1392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" />
+    <link rel="icon" type="image/x-icon"
+        href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxaBczyPyp4MHSmGOhC736BtZDYcTEmN_yQ&usqp=CAU">
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    
+     <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+    
+        gtag('config', 'G-KXF49JTY4B');
+      </script>
+    
+      <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <style>
+        
+.back_price{
+  background-image: url("	https://easyrocket.net/assets/img/templates-bg.jpg");
+  height: 70vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.price_col{
+  text-align: center; 
+   
+  }
+  
+  .price_col h1{
+      padding-top: 72px;
+      color: white;
+      font-family: 'Poppins', sans-serif;
+      font-size: 42px;
+  }
+  .price_col h2{
+  
+      color: white;
+      font-family: 'Poppins', sans-serif;
+      font-size: 14px;
+      /* width: 693px; */
+      padding: 3px;
+      /* margin-left: 150px;
+    */
+  }
+  
+  .price_row{
+      margin-top: 70px;
+  }
+
+
+
+.intro {
+  align-items: center;
+  background-color: #23b04e;
+  background-image: url(./img/pricing-bg.jpg);
+  background-position: 100%;
+  background-size: cover;
+  color: #fff;
+  display: flex;
+  height: 100vh;
+  margin-top: -100px;
+  min-height: 600px; 
+  overflow: hidden; 
+   position: relative;
+  text-align: center;
+   z-index: 10;
+}
+
+
+
+.intro h1 {
+  font-size: 38px;
+  /* font-weight: 600; */
+  line-height: 1;
+  padding-left: 40px;
+  text-align: center;
+}
+
+
+
+
+.intro h2 {
+  margin-bottom: 30px;
+}
+
+
+.intro h2 {
+  font-size: 26px;
+  margin-left: 130px;
+  margin-right: auto;
+  max-width: 60%;
+  margin-top: -52;
+}
+
+
+
+
+.intro_pricing {
+  padding-left: 258px;
+}
+
+@media(max-width:740px) {
+  .intro_pricing {
+      padding-left: 20px;
+      display: flex;
+      background-size: cover;
+      max-width: 100%;
+  }
+}
+
+.row1 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+  margin-right: -15px
+}
+
+@media(max-width:500px) {
+  .row1 {
+      padding-left: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      margin-left: -116px;
+      margin-right: 3px;
+  }
+}
+
+/*  */
+
+/* @media(max-width:994px) {
+  .intro_pricing {
+      padding-left: 20%;
+      display: flex;
+  }
+}
+
+.row1 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+  margin-right: -15px
+}
+
+@media(max-width:994px) {
+  .row1 {
+      padding-left: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      margin-left: -116px;
+      margin-right: 3px;
+  }
+} */
+
+
+
+/*  gif explore */
+
+.hero_scroll-btn {
+
+  bottom: 30px;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+  margin-top: 64px;
+
+}
+
+.hero_scroll-btn .bi {
+
+  transition: 0.8s;
+  animation: bounce 1s infinite alternate;
+}
+
+@keyframes bounce {
+  from {
+      transform: translateY(0px);
+  }
+
+  to {
+      transform: translateY(-10px);
+  }
+}
+
+.bi {
+  font-size: 44px;
+  opacity: 40;
+}
+
+.plans {
+  padding: 100px 0;
+}
+
+.plans__head {
+  align-items: center;
+  display: flex;
+  gap: 10px 30px;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+.main-content h1, p {
+  color: #1c1919;
+}
+
+.pricingInfo__text p{
+  color: black;
+}
+
+
+.plans__head h4 {
+  margin-bottom: 0;
+}
+
+.plans__body {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 50px;
+  /* margin-left: 70px; */
+  margin-left: 11px;
+  /* margin-right: -161px; */
+}
+
+
+@media (max-width:375px) {
+
+  .plans__body {
+      /* display: flex;
+     flex-wrap: wrap; */
+      gap: 30px;
+      justify-content: center;
+      margin-top: 50px;
+      /* margin-left: 11px;
+      margin-right: -161px; */
+      display: flex;
+      flex-direction: column-reverse;
+  }
+
+  /* .containers {
+      width: 292%;
+      margin-left: -8px;
+  } */
+}
+
+/*  */
+/* @media (max-width:994px) {
+
+  .plans__body {
+      display: flex;
+      flex-direction: column-reverse;
+  }
+
+  .containers {
+      width: 352%;
+      margin-left: -2%;
+  }
+}
+
+@media  (max-width: 994px)
+{ 
+.plans__body .planCard__btn {
+margin-left: 43%;
+}
+} */
+
+
+
+
+.plans__desc {
+  margin-top: 50px;
+  text-align: center
+}
+
+
+.border-box {
+  box-sizing: border-box;
+}
+
+.planCard {
+  background: #f7f7f7;
+  border-radius: 10px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, .2);
+  display: flex;
+  flex-direction: column;
+  padding: 100px 0px 30px;
+  position: relative;
+  width: calc(33.33333% - 20px);
+}
+
+
+@media (max-width: 700px){
+.planCard {
+  width: 121%;
+}
+}
+.planCard__label {
+  color: #fff;
+  font-size: 16px;
+  height: 35px;
+  left: -14px;
+  line-height: 35px;
+  padding-top: 2px;
+  text-align: center;
+  text-transform: uppercase;
+  top: 30px;
+  width: 110px;
+  z-index: 1;
+}
+
+
+/*  */
+
+/* @media  (max-width: 994px)
+{ 
+.planCard__label {
+margin-left: 31%;
+}
+}
+*/
+
+
+
+.planCard__head {
+  text-align: center;
+}
+
+.planCard__name h2 {
+  font-weight: 700;
+}
+
+
+
+.planCard__price span {
+  color: #d62c64;
+}
+
+.plans .planCard__time p {
+  color: #41a85f;
+}
+
+.planCard__desc {
+  min-height: 53px;
+}
+
+
+/* button */
+
+.planCard__btn {
+  display: flex;
+  justify-content: center;
+}
+
+.planCard__btn,
+.planCard__info {
+  margin-top: 30px;
+}
+
+.planCard__info p {
+  margin-bottom: 0;
+}
+
+.planCard__dop {
+  margin-top: 30px;
+  padding: 0 15px;
+  text-align: justify;
+}
+
+
+
+.planCard__btn {
+  display: inline-block;
+  text-decoration: none;
+  color: red;
+  border: 2px solid #ff585d;
+  /* padding: 12px 34px; */
+  font-size: 13px;
+  background: transparent;
+  position: relative;
+  cursor: pointer;
+  border-radius: 40px;
+  /* width: 161px;
+  height: 41px; */
+  margin-left: 62px;
+}
+
+
+
+.planCard__btn:hover {
+  border: 1px solid red;
+  background: red;
+  transition: 1s;
+  color: white;
+}
+
+
+
+
+
+.planCard .planCard__dop p {
+  color: #41a85f;
+  margin-bottom: 0;
+}
+
+
+
+.planCard__content {
+  border-top: 1px solid #666;
+  margin-top: 30px;
+  padding-top: 30px;
+  margin-left: 0px;
+}
+
+.planCard__content ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.planCard__content li {
+  padding-left: 26px;
+  position: relative;
+}
+
+
+img {
+  height: 15px;
+  width: 15px;
+}
+
+.icn {
+  text-align: left;
+}
+
+.planCard__label span {
+  text-align: center;
+  background-color: red;
+  color: white;
+  margin-left: 120px;
+}
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.toggle-checkbox {
+  position: absolute;
+  opacity: 0;
+}
+
+.toggle-button {
+  cursor: pointer;
+  background-color: rgb(236, 228, 228);
+  width: 50px;
+  height: 25px;
+  border-radius: 5px;
+  margin: 10px;
+  position: relative;
+  left: 45%;
+}
+
+.toggle-button:after {
+  content: "";
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  width: 15px;
+  height: 15px;
+  background-color: blue;
+  border-radius: 50%;
+  transition: all 0.3s;
+}
+
+input[type="checkbox"]:checked+.toggle-button:after {
+  left: calc(100% - 20px);
+  width: 15px;
+  background-color: purple;
+}
+
+
+.card-one,
+.card-two {
+  background-color: white;
+ /* margin-left: 100px; */
+  padding:  20px;
+  border-radius: 5px;
+  width: 95%;
+  text-align: center;
+}
+
+.card-two {
+  display: none;
+}
+
+input[type="checkbox"]:checked+.toggle-button+.card-one {
+  display: none;
+}
+
+input[type="checkbox"]:checked+.toggle-button+.card-one+.card-two {
+  display: block;
+}
+
+/*  card section Ending 2  */
+/*  card Ending */
+
+
+
+/* pricingInfo started  */
+
+@media (max-width: 767px) {
+  .pricingInfo__inner {
+      flex-direction: column
+  }
+  .card-one,
+.card-two {
+  background-color: white;
+ /* margin-left: 100px; */
+  padding:  20px;
+  border-radius: 5px;
+  width: 80%;
+  text-align: center;
+}
+}
+
+
+
+
+@media (max-width: 991px) {
+  .container2 {
+      padding: 0 15px;
+  }
+
+  
+}
+
+@media (max-width: 1399px) {
+  .container2 {
+      padding-left: 50px;
+      padding-right: 50px;
+  }
+}
+
+.container2 {
+  max-width: 1630px;
+  padding: 0 50px;
+}
+
+
+.pricingInfo {
+  background-color: #f7f7f7;
+  padding: 100px 0
+}
+
+.pricingInfo__inner {
+  align-items: center;
+  display: flex;
+  gap: 60px;
+  margin: 0 auto;
+  max-width: 928px;
+  width: 100%
+}
+
+
+
+.pricingInfo__img {
+  align-items: center;
+  display: flex;
+}
+
+/* pricingInfo ending  */
+
+
+
+
+/* <!-- FAQ Started--> */
+.para {
+  padding-top: 46px;
+  padding-left: 78px;
+  font-size: 22px;
+  text-align: center;
+}
+
+.underline {
+  border-bottom: 2px solid red;
+  width: 25%;
+  margin-left: 165px;
+}
+
+
+.main_sec {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+}
+
+.Question_sec {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.card {
+  width: 66%;
+  padding-top: 52px;
+}
+
+.accordion {
+  background-color: #eee;
+  color: black;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+/* .active, .accordion:hover {
+  background-color: white;
+} */
+
+.accordion:after {
+  content: '\002B';
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+  background-color: #ff3f44;
+  border-radius: 50%;
+}
+
+.active:after {
+  content: "\2212";
+  background-color: #ff3f44;
+  border-radius: 50%;
+  font-size: 22PX;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+/* <!-- FAQ ENDING--> */
+
+
+
+.m-priority{
+  color: rgb(15, 15, 15);
+}
+
+@media(max-width:700px) {
+
+
+
+  .plans__body{
+
+      display: flex;
+      flex-direction: column;
+   
+
+  }
+
+  /* S */
+}
+
+    </style>
+</head>
+<body>
+    <header>
+
+        <nav>
+            <div class="navbar">
+                <i class='bx bx-menu'></i>
+                <div class="logo"><a href="index.html"><img src="Images/logo.svg" class="logoimg"></a></div>
+                <div class="nav-links">
+                    <div class="sidebar-logo">
+                        <span class="logo-name"><a href="index.html"><img src="Images/logo.svg"
+                                    class="logoimg"></a></span>
+                        <i class='bx bx-x'></i>
+                    </div>
+                    <ul class="links">
+                        <li><a href="template2.html">TEMPLATES</a></li>
+                        <li>
+                            <a href="#">SUBMENU</a>
+                            <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
+                            <ul class="htmlCss-sub-menu sub-menu">
+                                <li><a href="index.html">OVERVIEW</a></li>
+                                <li><a href="direct-integration.html">DIRECT INTEGRATION</a></li>
+                                <li><a href="practice.html">PLATFORM SOLUION</a></li>
+                                <li><a href="compiance.html">COMPLIANCE</a></li>
+                                <li><a href="service2.html">SERVICE</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="integration2.html">INTEGRATIONS</a></li>
+                        <li><a href="partner2.html">PARTNERS</a></li>
+                        <li><a href="pricing.html">PRICING</a></li>
+                        <li><a href="#" class="demobtn" data-toggle="modal" data-target="#exampleModal">REQUEST A
+                                DEMO</a></li>
+                    </ul>
+                </div>
+                <!-- <div class="search-box">
+                    <i class='bx bx-search'></i>
+                    <div class="input-box">
+                        <input type="text" placeholder="Search...">
+                    </div>
+                </div> -->
+            </div>
+        </nav>
+
+
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+
+                    <div class="container">
+                         <form action="https://formsubmit.co/vishal@vrnl.net" method="POST">
+
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span class="close"><i class="bi bi-x-circle-fill"></i><span>
+                            </button>
+                            <h2>SEE EASYROCKET IN ACTION</h2>
+                            <div class="content">
+                                <div class="input-box">
+                                    <label for="fname-input">First name</label>
+                                    <input type="text"  id="name-input" name="name" required>
+                                </div>
+                                <div class="input-box">
+                                    <label for="lname-input">Last name</label>
+                                    <input type="text" id="lname-input" name="lname"  required>
+                                </div>
+                                <div class="input-box">
+                                    <label for="uemail-input">Email</label>
+                                    <input type="email"  id="email-input" name="email" required>
+                                </div>
+                                <div class="input-box">
+                                    <label for="ucontact-input">Contact</label>
+                                    <input type="tel" id="contact-input" name="contact" required>
+                                </div>
+                                <div class="input-box">
+                                    <label for="cname-input">Company name</label>
+                                    <input type="text" id="message-textarea" name="message" required>
+                                </div>
+                            </div>
+                            <div class="form-group form-check"
+                                style="text-align: center; font-weight: bold; color: grey;">
+                                <input type="checkbox" class="form-check-input" id="exampleCheck1" required>
+                                <label class="form-check-label" for="exampleCheck1">I agree to the Privacy
+                                    Policy</label>
+                            </div>
+                            <div class="button-container">
+                                <button type="submit">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        </div>
+    </header>
+
+    
+    <section class="back_price">
+        <div class="price_row">
+                <div class="price_col">
+                    <h1>Find the Perfect Package for Your Product</h1>
+                    <h2>Simple & Affordable Price!
+                    </h2>
+                </div>
+        </div>
+
+        <a href="#imagesec" class="hero_scroll-btn">
+         EXPLORE MORE   <i class="bi bi-chevron-double-down"></i>
+        </a>
+    </section>
+
+    <section class="see-card"> 
+        <!-- <input type="checkbox" id="toggle" class="toggle-checkbox">
+            <label for="toggle" class="toggle-button"></label>   card box Stared -->
+        
+        <div class="containers">
+            <input type="checkbox" id="toggle" class="toggle-checkbox">
+            <label for="toggle" class="toggle-button"></label>
+            <!-- card-one :- READY TO USE BRAND -->
+            <div class="card-one">  
+                <div class="plans__body">
+                    <div class="planCard">
+                        <div class="planCard__head">
+                            <div class="planCard__name">
+                                <h2>READY TO USE BRAND</h2>
+                            </div>
+                            <div class="planCard__price">
+                                <s>2000€</s>
+                                <span>1500€</span>
+                            </div>
+                            <div class="planCard__time">
+                                <p>or 10% from GGR p/m</p>
+                            </div>
+                            <div class="planCard__desc">
+                                <p>One of the casino templates with a built-in <br>4backoffice</p>
+                            </div>
+                        </div>
+                        <div class="planCard__btn">
+                            <a href="/form.html" class="btn-outline" data-toggle="modal">Get started</a>
+                        </div>
+                        <div class="planCard__content">
+                            <ul>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Up to 1 day GO LIVE process</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Completed front-end</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Completed Backoffice</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Integrated Payment Solutions (Worldwide coverage)</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Additional integrations to desired Payment Solutions</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Integrated Game Providers</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Already licensed</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Personal Account Manager</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        27/7 Technical support</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Tuned Affiliate Profile</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+    
+    
+                    <!-- Popular :- WHITE LABEL CASINO ,  -->
+                    <div class="planCard" style="background:#232C63;">
+                        <div class="planCard__label">
+                            <span>Popular</span>
+                        </div>
+                        <div class="planCard__head">
+                            <div class="planCard__name">
+                                <h2 style="color:white;">WHITE LABEL CASINO</h2>
+                            </div>
+                            <div class="planCard__price">
+                                <s>2500€</s>
+                                <span>2000€</span>
+                            </div>
+                            <div class="planCard__time">
+                                <p>or 7% from GGR p/m</p>
+                            </div>
+                            <div class="planCard__desc">
+                                <p>A complete suite of tools necessary to manage your online casino.</p>
+                            </div>
+                        </div>
+                        <div class="planCard__btn">
+                            <a href="#callback" class="btn-outline" data-toggle="modal">
+                                <p>GET STARTED</p>
+                            </a>
+                        </div>
+                        <div class="planCard__content">
+                            <ul>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        New project rise with up to 3 days GO LIVE process via our template</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Personal design adaptation</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Design development</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Integration to variety of Payment Solutions</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Additional Integrations to desired Payment Solutions</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Integration to Game Providers</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Project licensing</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Personal Account Manager</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        24/7 Technical Support</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Affiliate profile set-up</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+    
+                    <!-- TURNKEY SOLUTION -->
+                    <div class="planCard">
+                        <div class="planCard__head">
+                            <div class="planCard__name">
+                                <h2>TURNKEY SOLUTION</h2>
+                            </div>
+                            <div class="planCard__price">
+                                <s>2250€</s>
+                                <span>1800€</span>
+                            </div>
+                            <div class="planCard__time">
+                                <p>or 7% from GGR p/m</p>
+                            </div>
+                            <div class="planCard__desc">
+                                <p>Connecting the platform to your ready-made design</p>
+                            </div>
+                        </div>
+                        <div class="planCard__btn">
+                            <a href="/form.html" class="btn-outline" data-toggle="modal">Get started</a>
+                        </div>
+                        <div class="planCard__content">
+                            <ul>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Up to 3 days GO LIVE process</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Your Frontend integration to our extended Backoffice</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Integration to variety of Payment Solutions</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Additional integrations to desired Payment Solutions</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Integration to Game Providers</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Project licensing</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Personal Account Manager</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        24/7 Technical support</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Affiliate profile set-up</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    
+    
+            <!-- card-two :-  Custom , PLATFORM SOLUTION -->
+            <div class="card-two">
+                <div class="plans__body">
+                    <div class="planCard switched" style="background:#232C63" ;>
+                        <div class="planCard__label">
+                            <span>Custom</span>
+                        </div>
+                        <div class="planCard__head">
+                            <div class="planCard__name">
+                                <h2 style="color:white">PLATFORM <br> SOLUTION</h2>
+                            </div>
+                            <div class="planCard__desc" style="color:white">
+                                <p>If you are looking for reliable software to support your future or current business</p>
+                            </div>
+                        </div>
+                        <div class="planCard__btn">
+                            <a href="/form.html" class="btn-outline" data-toggle="modal">Get started</a>
+                        </div>
+                        <div class="planCard__dop">
+                            <p>We fully understand that everyone got its’ own business specifics, so EasyRocket specialists
+                                are ready to go through all of them and provide you the most suitable pricing!</p>
+                        </div>
+                        <div class="planCard__content">
+                            <ul>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Powerful Casino and Betting engine</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        CRM system with detailed analytics</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Wide list of integrated Payment Solutions + additional payment solution integration
+                                    </p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Integration with World famous Game Providers</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Extended Bonus and Retention Tools</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Adaptive Affiliate Management System</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        VIP Manager</p>
+                                </li>
+                                <li>
+                                    <p class="icn"><img src="img\checkmark--v1.png">
+                                        Professional System Maintenance</p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="plans__desc">
+            <p>All pricing is in EUR. You can select any plan. <br>* Special introductory pricing, all renewals are
+                at full price.</p>
+        </div>
+    
+      </section>
+
+
+      <section class="pricingInfo">
+        <div class="container2">
+            <div class="row2">
+                <div class="col">
+                    <div class="pricingInfo__inner">
+                        <div class="pricingInfo__img">
+                            <img class="license" src="/img/license (1).png" style="width:141px; height: 148px;"
+                                alt="license">
+                        </div>
+                        <div class="pricingInfo__text">
+                            <h2 >100% No-Risk Partner!</h2>
+                            <p >Our #1 priority is your happiness. Which means we stand by our products 100%, no
+                                matter<br>
+                                what, no question asked, no hold barred, no ifs, no buts. Happiness. Guaranteed.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- pricingInfo ending -->
+
+
+    <!-- FAQ Started-->
+    <section>
+        <h1 class="para">Frequently Asked Questions</h1>
+       
+        <div class="Question_sec">
+            <div class="card">
+                <button class="accordion">Management Dashboard</button>
+                <div class="panel">
+                    <li>Help you make better decisions, faster</li><br><br>
+                    <li>Provide various customizable widgets from our growing library</li><br><br>
+                    <li>Pick, customize and organize the widgets for your dashboard</li><br><br>
+                    <li>Include KPIs and graphs with ease: Payouts, New Players, All Players, Rounds & GGR, Turnover &
+                        GGR, Retention and more</li><br><br>
+                    <li>New widgets are added on ongoing bases</li><br><br>
+                    <li>On request, we provide custom made widgets and enhancements to the existing library</li>
+                </div>
+
+                <button class="accordion">Gaming Management</button>
+                <div class="panel">
+                    <li>Central tool for easy casino gaming management, both on web and mobile</li><br><br>
+                    <li>Manage game assets, bonus contribution, game description, categories, tags, bet limits,
+                        reporting-invoicing categories per game</li><br><br>
+                    <li>Offers maintenance windows management for vendors</li><br><br>
+                    <li>Ability to mark content as recent additions for labelling in the front-end</li><br><br>
+                    <li>Assisting in making sure that correct games are launched per jurisdiction (via License Types)
+                    </li><br><br>
+                </div>
+
+                <button class="accordion">LOBBY MANAGEMENT</button>
+                <div class="panel">
+                    <li>Fully manage what each player will be presented within the front-end</li><br><br>
+                    <li>Create any number of lobby instances for different demographic categories</li><br><br>
+                    <li>Tailor categories and game order for specific markets or segments of players<br><br>Build web
+                        and mobile lobbies for RNG games, live dealer tables, VIP</li><br><br>
+                    <li>Change the order of the games in a way that suits your strategy best</li>
+                </div>
+
+                <button class="accordion">In-depth product reporting</button>
+                <div class="panel">
+                    <li>60+ Input conditions and filters that can be activated and defined</li><br><br>
+                    <li>60+ Output data fields that can be enabled or disabled</li><br><br>
+                    <li>Reports can be sorted by any column header and can be exported</li><br><br>
+                    <li>On request, we provide custom made reports or enhancements to the existing reporting</li>
+                </div>
+
+                <button class="accordion">Transaction monitoring and game replays</button>
+                <div class="panel">
+                    <p style="text-align: justify;">Easyrocket offers transaction monitoring tools that allow<br>
+                        support staff to track transactions in real time. By combining<br> this information with
+                        analysis of historical data and customer<br> account information, the platform provides insight
+                        into the<br> entire picture of user gaming behavior.</p>
+                    <li>Monitor and filter on transactions</li><br><br>
+                    <li>Handles big data volumes in real-time</li><br><br>
+                    <li>Easily see game replays</li><br><br>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="label" class="labello">
+        <h1>ready to start a conversation ?</h1>
+        <h2></h2>
+        <div class="divvv1"><p> The key for us as a true B2B iGaming software provider is to help  gaming operators<br> implement bold ideas and unleash unlimited creativity.</p></div>
+       <button  class="letstalk"><a href="" >LET'S TALK</a></button> 
+       <button class="get"><a href=""   >GET STARTED</a></button> 
+      </section>
+
+
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>CONTACT</h4>
+                    <ul>
+                        <li>
+                            <a href="mailto:marketing@easyrocket.net">marketing@easyrocket.net</a>
+                        </li>
+
+                        <li><a href="contact1.html">Contact Us</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-col">
+                    <h4>COMPANY</h4>
+                    <ul>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="template2.html">Templates</a></li>
+                        <li><a href="pricing.html">Pricing</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-col">
+                    <h4>WE WORK WITH</h4>
+                    <ul>
+                        <li><a href="/faq">FAQ</a></li>
+                        <li><a href="partner2.html">Partners</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-col">
+                    <h4>LEGAL</h4>
+                    <ul>
+                        <li><a href="privacy.html">Privacy Policy</a></li>
+                    </ul>
+                </div>
+
+                <div class="partners">
+                    <img src="images copy/evolution_gaming.png" />
+                    <img src="images copy/playngo.png" />
+                    <img src="images copy/netent.png" />
+                    <img src="images copy/microgaming.png" />
+                    <img src="images copy/amatic.png" />
+                    <img src="images copy/betgamestv.png" />
+                    <img src="images copy/betsoft.png" />
+                    <img src="images copy/blueprint.png" />
+                    <img src="images copy/booongo.png" />
+                </div>
+
+
+            </div>
+
+            <div class="row 1">
+                <div class="footer_logo">
+                    <img src="images copy/logo_gray.svg" alt="logo" />
+                </div>
+
+                <div class="footer-bottom">
+                    <p>2023 &copy; Easyrocket | All rights reserved.</p>
+                </div>
+
+                <div class="footer-col">
+                    <div class="social-links">
+                        <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+    
+    <script type="text/javascript">
+  
+var code;
+function createCaptcha() {
+  document.getElementById('captcha').innerHTML = "";
+  var charsArray =
+    "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@";
+  var lengthOtp = 6;
+  var captcha = [];
+  for (var i = 0; i < lengthOtp; i++) {
+    var index = Math.floor(Math.random() * charsArray.length + 1);
+    if (captcha.indexOf(charsArray[index]) == -1)
+      captcha.push(charsArray[index]);
+    else i--;
+  }
+  var canv = document.createElement("canvas");
+  canv.id = "captcha";
+  canv.width = 100;
+  canv.height = 50;
+  var ctx = canv.getContext("2d");
+  ctx.font = "25px Georgia";
+  ctx.strokeText(captcha.join(""), 0, 30);
+  code = captcha.join("");
+  document.getElementById("captcha").appendChild(canv);
+}
+
+
+function validateCaptcha() {
+  var recaptcha = $("#g-recaptcha-response").val()
+  event.preventDefault();
+  debugger
+  if (recaptcha === "") {
+    alert("Invalid Captcha. try Again");
+    createCaptcha();
+
+  } else {
+    submitForms();
+  }
+}
+$("#mynewForm").submit(function (e) {
+  e.preventDefault();
+});
+$("document").ready(function () {
+  $("#successDiv").fadeOut();
+});
+
+function submitForms() {
+  // var recaptcha = $("#g-recaptcha-response").val()
+  // $.post("/submit.php", {
+  //   "secret": "6LcnazMjAAAAAM6Bmo2-bI7KSkdriQZFCWwseFRS",
+  //   "response": recaptcha
+  // }, function (response) {
+  //   console.log(response)
+  // });
+  var isAgree = $("#agree").val();
+  // $("#successDiv").css("display", "block");
+  // document.getElementById("#successDiv").style.display = "block";
+  var name = $("#name-input").val();
+  var lname = $("#lname-input").val();
+  var email = $("#email-input").val();
+  var contact = $("#contact-input").val();
+  var message = $("#message-textarea").val();
+
+  console.log(isAgree,  name, lname, email, contact, message);
+  $.ajax({
+    type: "POST",
+    url: "/form.php",
+    data: {
+      name: name,
+      lname: lname,
+      email: email,
+      contact: contact,
+      message: message
+    },
+    success: function (response) {
+      console.log("php", response);
+      var resp = $.parseJSON(response);
+      // console.log("IN");
+      if (resp.result == "Success") {
+        // console.log("IN");
+        //$("#successDiv").css("display","block");
+        // $("#successDiv").fadeIn();
+        $("#successDiv").css("display", "block");
+        setTimeout(function () {
+          $("#successDiv").css("display", "none");
+        }, 2000);
+        $("#name-input").val("");
+        $("#lname-input").val("");
+        $("#email-input").val("");
+        $("#contact-input").val("");
+        $("#message-textarea").val("");
+      } else {
+        $("#unsuccessDiv").css("display", "block");
+        setTimeout(function () {
+          $("#unsuccessDiv").css("display", "none");
+        }, 2000);
+      }
+    },
+  });
+}
+
+  </script>
+
+    <script>
+        var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+
+
+
+
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+crossorigin="anonymous"></script>
+<!--<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"-->
+<!--integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"-->
+<!--crossorigin="anonymous"></script>-->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+crossorigin="anonymous"></script>
+<script src="js/script.js"></script>
+</body>
+</html>

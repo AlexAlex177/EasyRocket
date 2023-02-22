@@ -1,0 +1,735 @@
+﻿<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="/assets/img/favicon.png" rel="shortcut icon">
+	<link href="/assets/img/favicon.png" rel="apple-touch-icon" sizes="135x135">
+    <link rel="stylesheet" href="/assets/css/app.css?id=c20aa06e0aae325eb8ba">
+
+    <title>Online Casino Platform Solution</title>
+
+			<!-- Global site tag (gtag.js) - Google Ads: 10811909180 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10811909180"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'AW-10811909180');
+		</script>
+	
+			<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-P6KXB82');</script>
+		<!-- End Google Tag Manager -->
+	</head>
+<body class="page-template page-template-page-casinoengine-platform page-template-page-casinoengine-platform-php page page-id-16495 page-child parent-pageid-18 casinoengine">
+		<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6KXB82"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+<header class="header">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="inner">
+					<a href="/" title="EasyRocket" class="logo">
+						<img src="/assets/img/logo.svg" alt="logo">
+					</a>
+					<div class="header-container">
+						<a href="/" title="EasyRocket" class="logo">
+							<img src="/assets/img/logo.svg" alt="logo">
+						</a>
+						<nav>
+							<div class="menu-header-menu-container">
+								<ul id="menu-header-menu" class="menu">
+									<li class="menu-item">
+										<a href="/templates">Templates</a>
+									</li>
+									<li class="menu-item">
+										<a href="/integrations">Integrations</a>
+									</li>
+									<li class="menu-item">
+										<a href="/partners">Partners</a>
+									</li>
+									<li class="menu-item">
+										<a href="/pricing">Pricing</a>
+									</li>
+									<li class="menu-item">
+										<a href="#callback" class="btn-outline" data-toggle="modal">Request a demo</a>
+									</li>
+								</ul>
+							</div>
+						</nav>
+
+						<a href="#" class="nav-mobile-trigger"><span></span></a>
+					</div>
+					<a href="#" class="nav-mobile-trigger"><span></span></a>
+					<div class="backdrop"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+    <main id="main" class="p-t-100">
+		<nav class="product-submenu fixed">
+	<ul>
+		<li class=""><a href="/">Overview</a></li>
+		<li class=""><a href="/direct-integration">Direct Integration</a></li>
+		<li class="active"><a href="/platform-solution">Platform Solution</a></li>
+		<li class=""><a href="/compliance">Compliance</a></li>
+		<li class=""><a href="/service">Service</a></li>
+	</ul>
+</nav>		
+        <section class="simple-intro">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-5 col-lg-6">
+                        <h1 class="section-title text-left">PLATFORM SOLUTION</h1>
+                        <div class="description">
+                            <p>Easyrocket is more than just a casino builder. We have created a fully functional and reliable platform solution for online gambling activities. Creating your resource via the platform you can dive into new markets in a jiffy using all the necessary tools.</p>
+                        </div>
+                        <div class="btns">
+                            <a href="/contact" class="btn ">Contact us</a>
+                        </div>
+                    </div>
+                    <div class="img-holder">
+                        <img src="/assets/img/platform-solution/CE-Turn-key-Solution-img1-1.png" class="illustration">
+                    </div>
+                </div>
+            </div>
+            <a href="#explore" class="explore"></a>
+        </section>
+        <section class="features p-b-100">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="inner"> 
+                            <h3>Bespoke API powered front-end </h3>
+                            <p>Easyrocket is created to create your own localized casino, the only limitation is your creativity.</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="inner">
+                            <h3>Powerful productivity tools </h3>
+                            <p>There will be more opportunities and income will increase many times over. With a wide range of options you can both control gaming sessions and divide players by deposit level.</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="inner">
+                            <h3>In-depth real-time reporting </h3>
+                            <p>Maximum detailed reporting with the accompanying dashboards in real time. Possibility to analyze the player's gambling activity down to the number of his bets in one or another game.</p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="inner">
+                            <h3>Bonus and gamification </h3>
+                            <p>Easyrocket also offers operators a sophisticated bonus program which will help increase key performance indicators such as player engagement and retention.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="api-front-end box-full box-full-center-title m-t-50 m-b-50">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="section-title">API Powered Front-end Development</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col box">
+                        <div class="inner">
+                            <div class="inner-content">
+                                <div class="row d-flex align-items-center">
+                                    <div class="col-lg-5">
+                                        <div class="description">
+                                            <p>The design and functionality of the casino front-end is key to success and profitability. This is not only about usability but also about retention, personalization and promoting the most profitable content.
+                                            </p>
+                                            <p>Operators are free to build their websites using any technology or use our responsive mobile-first web application. Operators using our API technologies with GamMatrix, get access to a wide range of properties
+                                                and assets, which are editable in the back-office.</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 ml-auto d-flex align-items-center">
+                                        <img src="/assets/img/platform-solution/CE-Front-end.png" alt="API Powered Front-end Development">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="api-tabs m-t-50 m-b-50">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="accordion" id="accordion-api-tabs">
+                            <a href="#" class="accordion-trigger " data-toggle="collapse" data-target="#accordion-api-tabs-0" aria-expanded="false" aria-controls="accordion-api-tabs-0">
+                                Maximize revenue in real-time with Live Casino
+                                Lobby API</a>
+                            <div id="accordion-api-tabs-0" class="collapse accordion-content show" data-parent="#accordion-api-tabs">
+                                <div class="inner">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="description"> 
+                                                <p> With its APIs, Easyrocket ensures consistent performance and acts as a bridge between innovation and full access.</p>
+                                                <p>Fifty+ game providers - including Evolution and NetEnt - are integrated through the Live Tables API, giving operators the ability to track stats for every game to ensure a full gaming experience.  </p>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="col-md-6">
+                                            <img src="/assets/img/platform-solution/CE-Frontend-img3.png" alt="Maximize revenue in real-time with Live Casino Lobby API">
+                                        </div> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="#" class="accordion-trigger collapsed" data-toggle="collapse" data-target="#accordion-api-tabs-1" aria-expanded="false" aria-controls="accordion-api-tabs-1">Take control of the gameplay window</a>
+                            <div id="accordion-api-tabs-1" class="collapse accordion-content " data-parent="#accordion-api-tabs">
+                                <div class="inner">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="description">
+                                                <p>Easyrocket's UI communication structure allows operators full control of the gameplay window on both desktop and mobile displays.</p>
+                                                <p>This allows real-time notifications in the gameplay windows, whether related to responsible play (reaching the time and money limit) or maintenance windows.
+                                                    Also, Easyrocket controls additional buttons on top of the game window, such as quick deposit functions, gameplay information, gamification functions, and more.  
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="col-md-6">
+                                            <img src="/assets/img/platform-solution/CE-Frontend-img2.png" alt="Take control of the gameplay window">
+                                        </div> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="#" class="accordion-trigger collapsed" data-toggle="collapse" data-target="#accordion-api-tabs-2" aria-expanded="false" aria-controls="accordion-api-tabs-2">Make compelling game recommendations</a>
+                            <div id="accordion-api-tabs-2" class="collapse accordion-content " data-parent="#accordion-api-tabs">
+                                <div class="inner">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="description">
+                                                <p>For operators looking for a quick way to personalize their sites, we created the Fast Game Platform engine.
+                                                </p>
+                                                <p>Based on cutting-edge algorithms, this engine provides automated ways to make compelling game recommendations for players based on their preferences.
+                                                </p>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="col-md-6">
+                                            <img src="/assets/img/platform-solution/CE-Frontend-img4.png" alt="Make compelling game recommendations">
+                                        </div> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="back-office box-full box-full-center-title m-t-50 m-b-50">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="section-title">Full Featured Back-Office</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col box">
+                        <div class="inner">
+                            <div class="inner-content">
+                                <div class="row d-flex align-items-center">
+                                    <div class="col-lg-5">
+                                        <div class="description">    
+                                            <p>Easyrocket is a state-of-the-art casino platform built for the way casino managers should work today. Set up, activate and collect data to get valuable insights and an instant overview of your casino's performance.
+                                            </p>
+                                            <p>The admin dashboard allows operators to analyze data, manage games and lobbies, customize game presentation details, and get important resource revenue metrics.</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 ml-auto d-flex align-items-center">
+                                        <img src="/assets/img/home/admin.png" alt="Full Featured Back-Office">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="back-office-tabs m-t-50 m-b-50">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="accordion" id="accordion-back-office-tabs">
+                            <a href="#" class="accordion-trigger " data-toggle="collapse" data-target="#accordion-back-office-tabs-0" aria-expanded="false" aria-controls="accordion-back-office-tabs-0">Management dashboards</a>
+                            <div id="accordion-back-office-tabs-0" class="collapse accordion-content show" data-parent="#accordion-back-office-tabs">
+                                <div class="inner">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="description">
+                                                <ul>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Help you make better decisions, faster
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Provide various customizable widgets from our growing library
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Pick, customize and organize the widgets for your dashboard
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Include KPIs and graphs with ease: Payouts, New Players, All Players, Rounds &amp; GGR, Turnover &amp; GGR, Retention and more
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        New widgets are added on ongoing bases
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        On request, we provide custom made widgets and enhancements to the existing library
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="col-md-6">
+                                            <img src="/assets/img/platform-solution/CE-UBO-img2.png" alt="Management dashboards">
+                                        </div> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="#" class="accordion-trigger collapsed" data-toggle="collapse" data-target="#accordion-back-office-tabs-1" aria-expanded="false" aria-controls="accordion-back-office-tabs-1">Game management</a>
+                            <div id="accordion-back-office-tabs-1" class="collapse accordion-content " data-parent="#accordion-back-office-tabs">
+                                <div class="inner">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="description">
+                                                <ul>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Central tool for easy casino gaming management, both on web and mobile
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Manage game assets, bonus contribution, game description, categories, tags, bet limits, reporting-invoicing categories per game
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Offers maintenance windows management for vendors</li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Ability to mark content as recent additions for labelling in the front-end
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Assisting in making sure that correct games are launched per jurisdiction (via License Types)</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="col-md-6">
+                                            <img src="/assets/img/platform-solution/CE-UBO-img2-1.png" alt="Game management">
+                                        </div> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="#" class="accordion-trigger collapsed" data-toggle="collapse" data-target="#accordion-back-office-tabs-2" aria-expanded="false" aria-controls="accordion-back-office-tabs-2">Lobby management</a>
+                            <div id="accordion-back-office-tabs-2" class="collapse accordion-content " data-parent="#accordion-back-office-tabs">
+                                <div class="inner">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="description">
+                                                <ul>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Fully manage what each player will be presented within the front-end
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Create any number of lobby instances for different demographic categories
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Tailor categories and game order for specific markets or segments of players</li>
+                                                    <li>Build web and mobile lobbies for RNG games, live dealer tables, VIP
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Change the order of the games in a way that suits your strategy best
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="col-md-6">
+                                            <img src="/assets/img/platform-solution/CE-UBO-img4.png" alt="Lobby management">
+                                        </div> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="#" class="accordion-trigger collapsed" data-toggle="collapse" data-target="#accordion-back-office-tabs-3" aria-expanded="false" aria-controls="accordion-back-office-tabs-3">In-depth product reporting</a>
+                            <div id="accordion-back-office-tabs-3" class="collapse accordion-content " data-parent="#accordion-back-office-tabs">
+                                <div class="inner">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="description">
+                                                <ul>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        60+ Input conditions and filters that can be activated and defined
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        60+ Output data fields that can be enabled or disabled</li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Reports can be sorted by any column header and can be exported
+                                                    </li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        On request, we provide custom made reports or enhancements to the existing reporting</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="col-md-6">
+                                            <img src="/assets/img/platform-solution/CE-UBO-img2-2.png" alt="In-depth product reporting">
+                                        </div> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="#" class="accordion-trigger collapsed" data-toggle="collapse" data-target="#accordion-back-office-tabs-4" aria-expanded="false" aria-controls="accordion-back-office-tabs-4">Transaction monitoring and game replays</a>
+                            <div id="accordion-back-office-tabs-4" class="collapse accordion-content " data-parent="#accordion-back-office-tabs">
+                                <div class="inner">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="description">
+                                                <p>Easyrocket offers transaction monitoring tools that allow support staff to track transactions in real time. By combining this information with analysis of historical data and customer account information, the platform provides insight into the entire picture of user gaming behavior.</p>
+                                                <ul>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Monitor and filter on transactions</li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Handles big data volumes in real-time</li>
+                                                    <li>
+                                                        <i class="icon-circle"></i>
+                                                        Easily see game replays</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <!-- <div class="col-md-6">
+                                            <img src="/assets/img/platform-solution/CE-UBO-img6.png" alt="Transaction monitoring and game replays">
+                                        </div> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="unlimited-performance box-full box-full-center-title m-t-50 m-b-50">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2 class="section-title">Get unlimited performance for your players<br> with Easy Bonus</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col box">
+                        <div class="inner">
+                            <div class="inner-content">
+                                <div class="row d-flex align-items-center">
+                                    <div class="col-lg-5">
+                                        <div class="description">
+                                            <p>Easy Bonus provides a wide range of bonus types and options for the Easyrocket integration platform. Your players can enjoy an unlimited number of bonuses at one time, without any interruption to the gameplay. Design the most attractive bonus campaigns to increase engagement in your casino without any gameplay delays. Extend player sessions, increase reactivation, increase retention, and reduce bonus costs.</p>
+                                            <ul>
+                                                <li>
+                                                    <i class="icon-circle"></i>
+                                                    Free Spins and other vendor-side features from top brands among 175+ casino vendors</li>
+                                                <li>
+                                                    <i class="icon-circle"></i>
+                                                    Cash Bonus</li>
+                                                <li>
+                                                    <i class="icon-circle"></i>
+                                                    Multi-level missions and challenges with different rewards per level
+                                                </li>
+                                                <li>
+                                                    <i class="icon-circle"></i>
+                                                    Fully automated multi-level Cash Back based on player’s losses</li>
+                                                <li>
+                                                    <i class="icon-circle"></i>
+                                                    Casino Tournaments</li>
+                                                <li>
+                                                    <i class="icon-circle"></i>
+                                                    And many more</li>
+                                            </ul>
+                                        </div>
+                                        <a href="#callback" class="btn m-t-30" data-toggle="modal">Explore more</a>
+                                    </div>
+                                    <div class="col-lg-6 ml-auto d-flex align-items-center">
+                                        <img src="/assets/img/platform-solution/323.png" alt="Get unlimited performance for your players<br> with BonusEngine">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="start-a-conversation p-t-100 p-b-100">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 ml-auto mr-auto text-center">
+				<h2 class="section-title">Ready to start a conversation?</h2>
+				<p>The key for us as a true B2B iGaming software provider is to help gaming operators implement bold ideas and unleash unlimited creativity.</p>
+				<div class="d-flex flex-column flex-sm-row align-items-center justify-content-center">
+					<a href="#chat" class="btn-outline js-chatMaximize">Let's talk</a>
+					<a href="#callback" class="btn mt-3 mt-sm-0 ml-sm-3" data-toggle="modal">Get started</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>    </main>
+
+<footer class="footer p-t-100 p-b-100">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<nav>
+					<div class="menu-footer-menu-container">
+						<ul id="menu-footer-menu" class="menu">
+							<li class="menu-item menu-item-has-children">
+								<a href="#">Contact</a>
+								<ul class="sub-menu">
+									<li class="menu-item">
+										<a href="/cdn-cgi/l/email-protection#8de0ecffe6e8f9e4e3eacde8ecfef4ffe2eee6e8f9a3e3e8f9"><span class="__cf_email__" data-cfemail="127f73607977667b7c75527773616b607d717977663c7c7766">[email&#160;protected]</span></a>
+									</li>
+									<li class="menu-item">
+										<a href="/contact">Contact Us</a>
+									</li>
+								</ul>
+							</li>
+
+							<li class="menu-item menu-item-has-children">
+								<a href="#">Company</a>
+								<ul class="sub-menu">
+									<li class="menu-item">
+										<a href="/about">About Us</a>
+									</li>
+									<li class="menu-item">
+										<a href="/templates">Templates</a>
+									</li>
+									<li class="menu-item">
+										<a href="/pricing">Pricing</a>
+									</li>
+								</ul>
+							</li>
+
+							<li class="menu-item menu-item-has-children">
+								<a href="#">We work with</a>
+								<ul class="sub-menu">
+									<li class="menu-item">
+										<a href="/partners">Partners</a>
+									</li>
+								</ul>
+							</li>
+							<li class="menu-item menu-item-has-children">
+								<a href="#">Legal</a>
+								<ul class="sub-menu">
+									<li class="menu-item">
+										<a href="/privacy-policy">Privacy Policy</a>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</nav>
+
+			</div>
+		</div>
+
+					<div class="row">
+				<div class="col">
+					<div class="footerProviders">
+													<div class="footerProviders__img">
+								<img src="/assets/img/providers/white/evolution_gaming.png" alt="evolution_gaming">
+							</div>
+													<div class="footerProviders__img">
+								<img src="/assets/img/providers/white/playngo.png" alt="playngo">
+							</div>
+													<div class="footerProviders__img">
+								<img src="/assets/img/providers/white/netent.png" alt="netent">
+							</div>
+													<div class="footerProviders__img">
+								<img src="/assets/img/providers/white/microgaming.png" alt="microgaming">
+							</div>
+													<div class="footerProviders__img">
+								<img src="/assets/img/providers/white/amatic.png" alt="amatic">
+							</div>
+													<div class="footerProviders__img">
+								<img src="/assets/img/providers/white/betgamestv.png" alt="betgamestv">
+							</div>
+													<div class="footerProviders__img">
+								<img src="/assets/img/providers/white/betsoft.png" alt="betsoft">
+							</div>
+													<div class="footerProviders__img">
+								<img src="/assets/img/providers/white/blueprint.png" alt="blueprint">
+							</div>
+													<div class="footerProviders__img">
+								<img src="/assets/img/providers/white/booongo.png" alt="booongo">
+							</div>
+											</div>
+				</div>
+			</div>
+		
+		<div class="row">
+			<div class="col">
+				<div class="footerInfo">
+					<div class="footerInfo__logo">
+						<img src="/assets/img/logo_gray.svg" alt="logo">
+					</div>
+					<div class="footerInfo__copyright">
+						<p>2023 &copy; Easyrocket | All rights reserved.</p>
+					</div>
+					<div class="footerInfo__socials socials">
+						<a href="https://twitter.com" class="socials__link" target="_blank">
+							<i class="icon-twitter"></i>
+						</a>
+						<a href="https://www.facebook.com" class="socials__link" target="_blank">
+							<i class="icon-facebook"></i>
+						</a>
+						<a href="https://www.linkedin.com" class="socials__link" target="_blank">
+							<i class="icon-linkedin"></i>
+						</a>
+						<a href="https://www.instagram.com" class="socials__link" target="_blank">
+							<i class="icon-instagram"></i>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<div class="special">
+	<div class="special__inner">
+		<div class="special__countdown">
+			<div id="countdown" class="countdown"></div>
+		</div>
+		<div class="special__text">
+			<p>-20% SPECIAL OFFER<span> - Take advantage of the exclusive discount - Limited offer time</span></p>
+		</div>
+	</div>
+
+	<a href="/pricing" class="special__link">link</a>
+</div><div class="modal fade" id="callback" tabindex="-1" aria-hidden="true">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<div class="row">
+					<div class="col-12">
+						<h3 class="modal-title">See Easyrocket in Action</h3>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-12">
+						<form method="post" action="/send-callback" class="callback-form-general">
+							<fieldset>
+								<div class="row">
+									<div class="col-lg-6 d-flex flex-column mb-2">
+										<label for="callback-first">First name*</label>
+										<input type="text" name="first-name" class="form-control" id="callback-first">
+										<input type="text" name="sender" class="sender">									</div>
+									<div class="col-lg-6 d-flex flex-column mb-2">
+										<label for="callback-last">Last name*</label>
+										<input type="text" name="last-name" class="form-control" id="callback-last">
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-lg-6 d-flex flex-column mb-2">
+										<label for="callback-email">Email*</label>
+										<input type="email" name="email" class="form-control" id="callback-email">
+									</div>
+									<div class="col-lg-6 d-flex flex-column mb-2">
+										<label for="callback-phone">Phone number</label>
+										<input type="text" name="phone" class="form-control" id="callback-phone">
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-lg-6 d-flex flex-column mb-2">
+										<label for="callback-company">Company name*</label>
+										<input type="text" name="company" class="form-control" id="callback-company">
+									</div>
+								</div>
+								<div class="row">
+									<div class="col d-flex flex-column align-items-center mb-3">
+										<div class="checkbox">
+											<input type="checkbox" name="terms[]" id="terms" value="Yes">
+											<label for="terms">I agree to the Privacy Policy</label>
+										</div>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col d-flex justify-content-center">
+										<a href="#submit" class="btn submit">Submit</a>
+									</div>
+								</div>
+							</fieldset>
+						</form>
+						<h3 class="success"></h3>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src='/assets/js/app.js?id=a739eb14448088bb84da'></script>
+
+			<script>
+		gtag('event', 'page_view', {
+			'send_to': 'AW-10811909180',
+			'value': 'replace with value',
+			'items': [{
+			'id': 'replace with value',
+			'location_id': 'replace with value',
+			'google_business_vertical': 'custom'
+			}]
+		});
+		</script>
+	
+			<!-- Start of LiveChat (www.livechatinc.com) code -->
+		<script>
+			window.__lc = window.__lc || {};
+			window.__lc.license = 13200831;
+			;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
+		</script>
+		<noscript><a href="https://www.livechatinc.com/chat-with/13200831/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+		<!-- End of LiveChat code -->
+	
+			<!-- Yandex.Metrika counter -->
+		<script type="text/javascript" >
+		(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+		m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+		(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+		ym(85893106, "init", {
+				clickmap:true,
+				trackLinks:true,
+				accurateTrackBounce:true,
+				webvisor:true
+		});
+		</script>
+		<noscript><div><img src="https://mc.yandex.ru/watch/85893106" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+		<!-- /Yandex.Metrika counter -->
+	</body>
+</html>
